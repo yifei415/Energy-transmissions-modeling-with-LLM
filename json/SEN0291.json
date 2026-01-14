@@ -1,0 +1,8 @@
+{
+    "Specification": {
+        "Input Voltage (VCC)": ": 3.3V~5.5V",
+        "BusVoltage": ": 4mV",
+        "Current": ": 1mA",
+        "Power": ": 20mW (hardware mode), 4mW (software mode)"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "Specification": {
+        "Input Voltage (VCC)": "3.3V~5.0V",
+        "Switch Life Span": "Over 200,000 times",
+        "Interface": "Gravity 3P Digital",
+        "Dimension": "30.0mm*22.0mm"
+    },
+    "notes": []
+}

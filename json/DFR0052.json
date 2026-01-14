@@ -1,0 +1,15 @@
+{
+    "Specification": {
+        "Power supply:": "Not necessary to power the module",
+        "Interface:": "Analog",
+        "Current:": "less than 1mA",
+        "Weight:": "10g"
+    },
+    "notes": [
+        "Pin Definition",
+        "Tutorial",
+        "Connection diagram",
+        "Sample Code",
+        "Result"
+    ]
+}

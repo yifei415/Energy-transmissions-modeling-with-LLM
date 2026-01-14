@@ -1,0 +1,12 @@
+{
+    "Specification": {
+        "CPU:": "Dual-core 1.2 GHz",
+        "Memory:": "512 MB DDR3",
+        "Storage:": "4 GB eMMC",
+        "Operating System:": "Android 10",
+        "Wireless Connectivity:": "Wi-Fi 5 (802.11ac), Bluetooth 5.0 LE",
+        "Dimensions:": "145 x 72 x 12 mm",
+        "Weight:": "120 g"
+    },
+    "notes": []
+}

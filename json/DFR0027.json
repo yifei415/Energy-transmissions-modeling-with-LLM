@@ -1,0 +1,23 @@
+{
+    "Specification": {
+        "Wide voltage range from 3.3V to 5V": "",
+        "Standard assembling structure (two 3mm diameter holes with multiple of 5mm as distance from center)": "",
+        "Easily recognitive interfaces of sensors (\"A\" for analog and \"D\" for digital)": "",
+        "Icons to simplely illustrate sensor function": "",
+        "High quality connector": "",
+        "Immersion gold surface": "",
+        "IO Type: Digital": "",
+        "Switch life: up to 10 million seconds": "",
+        "Open circuit resistance: 10Mohm": "",
+        "Supply Voltage: 3.3V to 5V": "",
+        "Interface: Digital": "",
+        "Size:22x30mm": ""
+    },
+    "notes": [
+        "Tutorial",
+        "Connection Diagram",
+        "Sample Code",
+        "Result",
+        "Trouble shooting"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "Specification": {
+        "Supply Voltage": "3.3V to 5V",
+        "Interface": "Analog x2, Digital x1",
+        "PH2.0 Interface": "",
+        "Size": "35x39mm",
+        "Weight": "15g"
+    },
+    "notes": []
+}

@@ -1,0 +1,14 @@
+{
+    "Specification": {
+        "Power supply needs": "5V",
+        "Interface type": "Analog",
+        "Pin Definition": "1-Output 2-GND 3-VCC",
+        "High sensitivity to carbon monoxide": null,
+        "Fast response": null,
+        "Stable and long life": null,
+        "Size": "40x20mm"
+    },
+    "notes": [
+        "Notes: None"
+    ]
+}

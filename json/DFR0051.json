@@ -1,0 +1,9 @@
+{
+    "Specification": {
+        "Interface: Analog": "",
+        "Input voltage (DC): Maximum 25V, Minimum 0.0245V": "",
+        "Detects the supply voltage upto 25V": "",
+        "Size:22x30mm": ""
+    },
+    "notes": []
+}

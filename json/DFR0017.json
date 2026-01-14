@@ -1,0 +1,15 @@
+{
+    "Specification": {
+        "Type": "Digital",
+        "Single relay board": "",
+        "Rated through-current": "10A (NO) 5A (NC)",
+        "Maximum switching voltage": "150VAC 24VDC",
+        "Digital interface": "",
+        "Control signal": "TTL level",
+        "Rated load": "8A 150VAC (NO) 10A 24VDC (NO), 5A 250VAC (NO/NC) 5A 24VDC (NO/NC)",
+        "Maximum switching power": "AC1200VA DC240W (NO) AC625VA DC120W (NC)",
+        "Contact action time": "10ms",
+        "Module pin definitions": "Pin1 - control side, Pin2 - Power supply (VCC), Pin3 - ground"
+    },
+    "notes": []
+}

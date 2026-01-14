@@ -1,0 +1,6 @@
+{
+    "Specification": {},
+    "notes": [
+        "Here is the extracted specification in JSON format:\n\n{\n    \"Specification\": {\n        \"Input Voltage (Vin)\": \"3.3 – 6V (5V recommended)\",\n        \"Output Voltage\": \"0 – Vin (Analog), 0/Vin (Digital)\",\n        \"Operating current\": \"<10mA\",\n        \"Dimension\": \"28 x 24(mm), 1.102\" x 0.945\"(in)\",\n        \"Interface Type\": \"PH2.0-3P\"\n    },\n    \"notes\": [\n        \"Please Note: This product is for development and testing purposes only.\",\n        \"For any questions, advice or cool ideas to share, please visit the DFRobot Forum\",\n        \"Powered By DFRobot © 2008-2017\"\n    ]\n}"
+    ]
+}

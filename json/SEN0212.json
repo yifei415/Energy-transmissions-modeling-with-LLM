@@ -1,0 +1,36 @@
+{
+    "Specification": [
+        {
+            "Operating Voltage": "3.3~5V"
+        },
+        {
+            "Operating Current": "65 uA"
+        },
+        {
+            "Detection Range": "3-10 mm"
+        },
+        {
+            "The Clock Frequency": "0-400 KHZ"
+        },
+        {
+            "Interface": "IIC interface"
+        },
+        {
+            "IIC Address": "0x29"
+        },
+        {
+            "Temperature Range": "- 30 Ԩ ~ + 70 Ԩ"
+        },
+        {
+            "Feet inches": "18.5 * 23 mm/ 0.73 * 0.9 inches"
+        },
+        {
+            "Weight": "12 g"
+        }
+    ],
+    "notes": [
+        "1. I2C address: 0x29",
+        "2. XH2.54 interface (BreadBoard Compatible) need soldering.",
+        "3. The paper of the blocking filter could be teared out."
+    ]
+}

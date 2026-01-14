@@ -1,0 +1,10 @@
+{
+    "Specification": {
+        "type": "Digital",
+        "LED light module pin definition": "(1) control terminal (2) power supply (3) ground"
+    },
+    "notes": [
+        "This LED is wired to light up when the Signal pin is set to low.",
+        "If you wish to make this LED light up with a logic high, you can switch the Signal wire (Green) with the GND wire (Black) and the Voltage wire (Red) to the Signal wire's original spot."
+    ]
+}

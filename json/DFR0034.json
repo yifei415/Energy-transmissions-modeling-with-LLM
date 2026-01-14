@@ -1,0 +1,17 @@
+{
+    "Specification": [
+        {
+            "Supply Voltage": "3.3V to 5V"
+        },
+        {
+            "Detects the sound intensity": ""
+        },
+        {
+            "Interface": "Analog"
+        },
+        {
+            "Size": "22x30mm"
+        }
+    ],
+    "notes": []
+}

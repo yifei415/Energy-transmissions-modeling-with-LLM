@@ -1,0 +1,11 @@
+{
+    "Specification": {
+        "Supply Voltage": "3.3V to 5V",
+        "Detection range": "20cm (4.8V) ~ 100cm (1V)",
+        "Range of Spectral Bandwidth": "760nm to 1100nm",
+        "Responsive time": "15us",
+        "Interface": "Analog",
+        "Size": "22x30mm"
+    },
+    "notes": []
+}

@@ -1,0 +1,11 @@
+{
+    "Specification": {
+        "Power supply": "3.3v or 5v",
+        "Output voltage signal": "0~4.2v",
+        "Current": "35mA",
+        "Pin definition": "Analog output(Blue wire), GND(Black wire), Power(Red wire)",
+        "Size": "60x20x5mm",
+        "Value range": "0 ~300 : dry soil, 300~700 : humid soil, 700~950 : in water"
+    },
+    "notes": []
+}

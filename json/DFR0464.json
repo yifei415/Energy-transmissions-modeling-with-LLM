@@ -1,0 +1,13 @@
+{
+    "Specification": {
+        "Operating Voltage": "3.3V ~ 5.0V",
+        "Operating Current": "<0.8mA",
+        "Display": "16 * 2",
+        "Communication": "IIC / I2C",
+        "Backlight": "RGB adjustable backlight (16 million)",
+        "Operating Temperature": "-20 to + 70 ℃",
+        "Storage Temperature": "-30 to + 80 ℃",
+        "Dimension": "87.0 * 32.0 * 13.0mm/3.42 * 1.26 * 0.51 inches"
+    },
+    "notes": []
+}
