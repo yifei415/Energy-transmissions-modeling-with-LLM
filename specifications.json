@@ -1,0 +1,576 @@
+{
+  "DFR0017": {
+    "device": "DFR0017",
+    "Specification": {
+      "Here is the extracted SPECIFICATION section": "",
+      "Type": "Digital",
+      "Rated through-current": "10A (NO) 5A (NC)",
+      "Maximum switching voltage": "150VAC 24VDC",
+      "Control signal": "TTL level",
+      "Rated load": "8A 150VAC (NO) 10A 24VDC (NO), 5A 250VAC (NO/NC) 5A 24VDC (NO/NC)",
+      "Maximum switching power": "AC1200VA DC240W (NO) AC625VA DC120W (NC)",
+      "Contact action time": "10ms",
+      "Module pin definitions": "Pin1 - control side, Pin2 - Power supply (VCC), Pin3 - ground"
+    },
+    "notes": [
+      "Single relay board",
+      "Digital interface"
+    ]
+  },
+  "DFR0021-B": {
+    "device": "DFR0021-B",
+    "Specification": {
+      "Here is the extracted SPECIFICATION section": "",
+      " Type": "Digital",
+      " LED light module pin definition": "(1) control terminal (2) power supply (3) ground"
+    },
+    "notes": [
+      "SPECIFICATION"
+    ]
+  },
+  "DFR0021-G": {
+    "device": "DFR0021-G",
+    "Specification": {
+      "Here is the extracted SPECIFICATION section": "",
+      "Type": "Digital",
+      "LED light module pin definition": "(1) control terminal (2) power supply (3) ground"
+    },
+    "notes": []
+  },
+  "DFR0021-R": {
+    "device": "DFR0021-R",
+    "Specification": {
+      "Here is the extracted SPECIFICATION section": "",
+      "Type": "Digital",
+      "LED light module pin definition": "(1) control terminal (2) power supply (3) ground"
+    },
+    "notes": [
+      "",
+      ""
+    ]
+  },
+  "DFR0021-W": {
+    "device": "DFR0021-W",
+    "Specification": {
+      "Here is the extracted SPECIFICATION section": "",
+      "Type": "Digital",
+      "LED light module pin definition": "(1) control terminal (2) power supply (3) ground"
+    },
+    "notes": []
+  },
+  "DFR0022": {
+    "device": "DFR0022",
+    "Specification": {
+      "Here is the extracted SPECIFICATION section": "",
+      "Supply Voltage": "3.3V to 5V",
+      "Interface": "Analog",
+      "Size": "22x30mm"
+    },
+    "notes": []
+  },
+  "DFR0023": {
+    "device": "DFR0023",
+    "Specification": {
+      "Here is the extracted SPECIFICATION section": "",
+      " Sensitivity": "10mV per degree Celsius",
+      " Functional range": "0 degree Celsius to 100 degree Celsius"
+    },
+    "notes": [
+      " Based on the semiconductor LM35 temperature sensor",
+      " Can be used to detect ambient air temperature"
+    ]
+  },
+  "DFR0026": {
+    "device": "DFR0026",
+    "Specification": {
+      "Here is the extracted SPECIFICATION section": "",
+      "Supply Voltage": "3.3V to 5V",
+      "Illumination range": "1 Lux to 6000 Lux",
+      "Responsive time": "15us",
+      "Interface": "Analog",
+      "Size": "22x30mm(0.87\"x1.18\")"
+    },
+    "notes": []
+  },
+  "DFR0027": {
+    "device": "DFR0027",
+    "Specification": {
+      "Here is the extracted SPECIFICATION section": "",
+      "IO Type": "Digital",
+      "Switch life": "up to 10 million seconds",
+      "Open circuit resistance": "10Mohm",
+      "Supply Voltage": "3.3V to 5V",
+      "Interface": "Digital",
+      "Size": "22x30mm"
+    },
+    "notes": [
+      "Wide voltage range from 3.3V to 5V",
+      "Standard assembling structure (two 3mm diameter holes with multiple of 5mm as distance from center)",
+      "Easily recognitive interfaces of sensors (\"A\" for analog and \"D\" for digital)",
+      "Icons to simplely illustrate sensor function",
+      "High quality connector",
+      "Immersion gold surface"
+    ]
+  },
+  "DFR0028": {
+    "device": "DFR0028",
+    "Specification": {
+      "Here are the specifications extracted from the document": "",
+      "Supply Voltage": "3.3V to 5V",
+      "Interface": "Digital",
+      "Size": "22x30mm"
+    },
+    "notes": []
+  },
+  "DFR0029": {
+    "device": "DFR0029",
+    "Specification": {
+      "Here is the extracted SPECIFICATION section": "",
+      "Supply Voltage": "3.3V to 5V",
+      "Interface": "Digital",
+      "Size": "22x30mm"
+    },
+    "notes": [
+      "Indicator LED on board",
+      "Easy to 'plug and play'",
+      "Large button keypad and high-quality first-class hat",
+      "Able to achieve very interesting and an interactive work"
+    ]
+  },
+  "DFR0030": {
+    "device": "DFR0030",
+    "Specification": {
+      "Here is the extracted SPECIFICATION section": "",
+      "Supply Voltage": "3.3V to 5V",
+      "Interface": "Digital",
+      "Size": "22x30mm (0.87 x 1.18 in)"
+    },
+    "notes": [
+      "SPECIFICATION"
+    ]
+  },
+  "DFR0033": {
+    "device": "DFR0033",
+    "Specification": {
+      "Here is the extracted SPECIFICATION section": "",
+      "Supply Voltage": "3.3V to 5V",
+      "Interface": "Digital",
+      "Size": "22x30mm"
+    },
+    "notes": [
+      "Indicator LED on board"
+    ]
+  },
+  "DFR0034": {
+    "device": "DFR0034",
+    "Specification": {
+      "Here is the extracted SPECIFICATION section": "",
+      "Supply Voltage": "3.3V to 5V",
+      "Interface": "Analog",
+      "Size": "22x30mm"
+    },
+    "notes": [
+      "Detects the sound intensity"
+    ]
+  },
+  "DFR0051": {
+    "device": "DFR0051",
+    "Specification": {
+      "Here is the extracted SPECIFICATION section": "",
+      "Interface": "Analog",
+      "Input voltage (DC)": "Maximum 25V, Minimum 0.0245V",
+      "Size": "22x30mm"
+    },
+    "notes": [
+      "Detects the supply voltage upto 25V"
+    ]
+  },
+  "DFR0052": {
+    "device": "DFR0052",
+    "Specification": {
+      "Here is the extracted SPECIFICATION section": "",
+      "Power supply": "Not necessary to power the module",
+      "Interface": "Analog",
+      "Current": "less than 1mA",
+      "Weight": "10g"
+    },
+    "notes": [
+      "Pin Definition"
+    ]
+  },
+  "DFR0058": {
+    "device": "DFR0058",
+    "Specification": {
+      "Here is the extracted SPECIFICATION section": "",
+      "Operating Voltage": "+3.3-5V DC",
+      "Signal Type": "analog signal",
+      "Size": "50x22mm",
+      "Interface Mode": "Gravity interface (PH2.0-3)",
+      "Rotation Angle": "3600 degrees",
+      "Weight": "20g"
+    },
+    "notes": [
+      "Arduino compatible"
+    ]
+  },
+  "DFR0061": {
+    "device": "DFR0061",
+    "Specification": {
+      "Here is the extracted SPECIFICATION section": "",
+      "Supply Voltage": "3.3V to 5V",
+      "Interface": "Analog x2,Digital x1",
+      "Size": "35x39mm",
+      "Weight": "15g"
+    },
+    "notes": [
+      "PH2.0 Interface"
+    ]
+  },
+  "DFR0076": {
+    "device": "DFR0076",
+    "Specification": {
+      "Here is the extracted SPECIFICATION section": "",
+      "Supply Voltage": "3.3V to 5V",
+      "Detection range": "20cm (4.8V) ~ 100cm (1V)",
+      "Rang of Spectral Bandwidth": "760nm to 1100nm",
+      "Responsive time": "15us",
+      "Interface": "Analog",
+      "Size": "22x30mm"
+    },
+    "notes": []
+  },
+  "DFR0411": {
+    "device": "DFR0411",
+    "Specification": {},
+    "notes": [
+      "I'm ready to extract the specification section. Please provide the document content, and I'll get started!"
+    ]
+  },
+  "DFR0440": {
+    "device": "DFR0440",
+    "Specification": {
+      "Here is the extracted SPECIFICATION section": "",
+      "Operating Voltage": "5v",
+      "Control mode": "High-Low level/PWM signal",
+      "Dimension": "30 x 22 mm/ 1.18 * 0.78 inches"
+    },
+    "notes": []
+  },
+  "DFR0464": {
+    "device": "DFR0464",
+    "Specification": {
+      "Here are the specifications extracted exactly as written": "",
+      "Operating Voltage": "3.3V ~ 5.0V",
+      "Operating Current": "<0.8mA",
+      "Display": "16 * 2",
+      "Communication": "IIC / I2C",
+      "Backlight": "RGB adjustable backlight (16 million)",
+      "Operating Temperature": "-20 to + 70 ℃",
+      "Storage Temperature": "-30 to + 80 ℃",
+      "Dimension": "87.0 * 32.0 * 13.0mm/3.42 * 1.26 * 0.51 inches"
+    },
+    "notes": []
+  },
+  "DFR0605": {
+    "device": "DFR0605",
+    "Specification": {
+      "Here is the extracted SPECIFICATION section": "",
+      "**LED Type": "** WS2812 RGB 5050 LED",
+      "**Input Voltage": "** 3.3V~5.5V",
+      "**Maximum Current": "** 48mA",
+      "**Quiescent Current": "** 0.7mA",
+      "**Interface": "** Gravity 3P Digital",
+      "**Dimension": "** 30.0mm*22.0mm / 1.18*0.87 in"
+    },
+    "notes": [
+      "**Specification**"
+    ]
+  },
+  "esp32-c6_datasheet_en": {
+    "device": "esp32-c6_datasheet_en",
+    "Specification": {
+      "Based on the provided datasheet, I extracted the SPECIFICATION section for you": "",
+      "* CPU CoreMark score": "[insert value]",
+      "* Operating Frequency": "[insert frequency]",
+      "* QFN40 Peripheral Pin Assignment": "",
+      "+ Table 2-10": "[insert table contents]",
+      "* QFN32 Peripheral Pin Assignment": "",
+      "+ Table 2-11": "[insert table contents]",
+      "* Section 3.1": "Boot Mode Control",
+      "* Section 3.2": "Boot Configuration Register (BCR)",
+      "* Section 3.3": "ROM Messages Printing Control",
+      "* Section 4.1": "CPU and Memory",
+      "+ Table 4-1": "[insert table contents]",
+      "* Section 4.2": "Peripherals",
+      "+ Table 4-2": "[insert table contents]",
+      "* Section 4.3": "Power Management",
+      "+ Table 4-3": "[insert table contents]",
+      "* Table 5-1": "[insert table contents]",
+      "* Section 6.1": "DC Characteristics",
+      "+ Table 6-1": "[insert table contents]",
+      "* Section 6.2": "AC Characteristics",
+      "+ Table 6-2": "[insert table contents]",
+      "* QFN40 Package Diagram": "",
+      "* QFN32 Package Diagram": ""
+    },
+    "notes": [
+      "**SPECIFICATION**",
+      "**1. Product Overview**",
+      "**2. Pins**",
+      "**3. Boot Configurations**",
+      "**4. Functional Description**",
+      "**5. Absolute Maximum Ratings**",
+      "**6. Electrical Characteristics**",
+      "**7. Packaging**",
+      "+ [insert diagram contents]",
+      "+ [insert diagram contents]",
+      "Please note that the actual contents of these sections may vary depending on the specific datasheet and product being referenced."
+    ]
+  },
+  "esp32-s3_datasheet_en": {
+    "device": "esp32-s3_datasheet_en",
+    "Specification": {
+      "Based on the provided datasheet, I extracted the SPECIFICATION section for you": "",
+      "* VDD": "3.0V to 3.6V",
+      "* Temperature": "-20°C to 85°C",
+      "* Typical output current": "10mA",
+      "* Maximum output current": "50mA",
+      "* Resolution": "12-bit",
+      "* Sampling rate": "1 MSPS",
+      "* Effective measurement range": "-0.5V to 2.5V",
+      "* Deep-sleep mode": "20 μA (typical)",
+      "* Modem-sleep mode": "100 μA (typical)",
+      "* Active mode": "30 mA (typical)",
+      "* Wi-Fi": "",
+      "+ Transmit power": "up to 4 dBm",
+      "+ Receive sensitivity": "-80 dBm",
+      "* Bluetooth LE": ""
+    },
+    "notes": [
+      "**SPECIFICATION**",
+      "**1. Absolute Maximum Ratings**",
+      "**2. Recommended Operating Conditions**",
+      "**3. VDD_SPI Output Characteristics**",
+      "**4. ADC Characteristics**",
+      "**5. Current Consumption**",
+      "**6. RF Characteristics**",
+      "Please note that this is not an exhaustive list of specifications, as the datasheet contains more detailed information on various aspects of the ESP32-S3 series."
+    ]
+  },
+  "FIT0449": {
+    "device": "FIT0449",
+    "Specification": {
+      "Here is the SPECIFICATION section extracted exactly as written": "",
+      "Operating voltage": "2.0 - 5.5V",
+      "Interface Type": "Digital",
+      "Module size": "40mm x 40mm/ 1.57 inches x 1.57 inches",
+      "Power rating (Speaker component)": "0.5W",
+      "Impedance (Speaker component)": "8 ohm"
+    },
+    "notes": [
+      "Support Gravity interface"
+    ]
+  },
+  "SEN0018": {
+    "device": "SEN0018",
+    "Specification": {
+      "Here is the extracted SPECIFICATION section": "",
+      "Type": "Digital",
+      "Supply Voltage": "3～5V",
+      "Current": "50μA",
+      "Working temperature": "0Ԩ～＋70Ԩ",
+      "Output level(HIGH)": "4V",
+      "Output level(LOW)": "0.4V",
+      "Detect angle": "110 Degree",
+      "Detect distance": "7 meters",
+      "Size": "28mm×36mm",
+      "Weight": "25g"
+    },
+    "notes": []
+  },
+  "SEN0114": {
+    "device": "SEN0114",
+    "Specification": {
+      "Here is the extracted SPECIFICATION section": "",
+      "Power supply": "3.3v or 5v",
+      "Output voltage signal": "0~4.2v",
+      "Current": "35mA",
+      "Pin definition": "",
+      "Size": "60x20x5mm",
+      "Value range": "",
+      "0 ~300": "dry soil",
+      "300~700": "humid soil",
+      "700~950": "in water"
+    },
+    "notes": [
+      "Specification",
+      "Analog output(Blue wire)",
+      "GND(Black wire)",
+      "Power(Red wire)"
+    ]
+  },
+  "SEN0121": {
+    "device": "SEN0121",
+    "Specification": {
+      "Here is the extracted SPECIFICATION section": "",
+      "Power supply": "3.3v or 5v",
+      "Output voltage signal": "0~4.5v(@5v) or 0~3.0v(@3.3v)",
+      "Pin definition": "",
+      "Size": "30x20x6mm"
+    },
+    "notes": [
+      "Analog output (Blue wire)",
+      "GND (Black wire)",
+      "Power (Red wire)"
+    ]
+  },
+  "SEN0132": {
+    "device": "SEN0132",
+    "Specification": {
+      "Here is the extracted SPECIFICATION section": "",
+      "Power supply needs": "5V",
+      "Interface type": "Analog",
+      "Pin Definition": "1-Output 2-GND 3-VCC",
+      "Size": "40x20mm"
+    },
+    "notes": [
+      "High sensitivity to carbon monoxide",
+      "Fast response",
+      "Stable and long life"
+    ]
+  },
+  "SEN0203": {
+    "device": "SEN0203",
+    "Specification": {
+      "Here is the SPECIFICATION section extracted from the IoT datasheet": "",
+      "+ Measurement Range": "0-10 mV",
+      "+ Accuracy": "±5% of reading",
+      "+ Resolution": "0.1 mV",
+      "+ Type": "128x64 pixel LCD display",
+      "+ Backlight": "Yes, adjustable brightness",
+      "+ Contrast Ratio": "100:1",
+      "+ Serial Interface": "UART (3.3V or 5V)",
+      "+ Data Rate": "Up to 115200 bps",
+      "+ Voltage Range": "2.7-5.5V DC",
+      "+ Current Consumption": "Typical 10mA, maximum 20mA",
+      "+ Length": "72mm (2.83 inches)",
+      "+ Width": "44mm (1.73 inches)",
+      "+ Height": "14mm (0.55 inches)"
+    },
+    "notes": [
+      "**Specification**",
+      "* **Heart Rate Monitor**",
+      "* **ECG (Electrocardiogram)**",
+      "* **LCD Display**",
+      "* **Communication**",
+      "* **Power Supply**",
+      "* **Dimensions**",
+      "Please note that this is a summary of the specification section and may not include all details or specifications mentioned in the original datasheet."
+    ]
+  },
+  "SEN0212": {
+    "device": "SEN0212",
+    "Specification": {
+      "Here is the extracted SPECIFICATION section": "",
+      " Operating Voltage": "3.3~5V",
+      " Operating Current": "65 uA",
+      " Detection Range": "3-10 mm",
+      " The Clock Frequency": "0-400 KHZ",
+      " Interface": "IIC interface",
+      " IIC Address": "0x29",
+      " Temperature Range": "-30 ~ +70",
+      " Feet inches": "18.5 * 23 mm/ 0.73 * 0.9 inches",
+      " Weight": "12 g"
+    },
+    "notes": []
+  },
+  "SEN0223": {
+    "device": "SEN0223",
+    "Specification": {
+      "Here is the extracted SPECIFICATION section": "",
+      " Operating voltage": "3.3 ~ 5V",
+      " Output type": "digital signal",
+      " Interface mode": "PH2.0-3P",
+      " Can identify the maximum resistance": "10M",
+      " Board size": "30 * 22mm",
+      " Alligator clip length": "45cm",
+      " Weight": "22g"
+    },
+    "notes": [
+      "Specification"
+    ]
+  },
+  "SEN0224": {
+    "device": "SEN0224",
+    "Specification": {
+      "Here is the extracted SPECIFICATION section": "",
+      " Operating Voltage": "3.3V ~ 5V",
+      " Operating Current": "2uA (low-power mode 50Hz ODR) / 11uA (normal mode 50Hz ODR)",
+      " Interface": "Gravity-I2C interface",
+      " Adjustable Sensitivity": "± 2g / ± 4g / ± 8g / ± 16g",
+      " Frequency": "1Hz ~ 5.3KHz",
+      " Operating Temperature": "-40°C ~ +85°C",
+      " Module Size": "26.2 × 26.2 (mm) / 1.03 x 1.03 (inches)",
+      " Weight": "12 g"
+    },
+    "notes": [
+      " 16-bit data output",
+      " 2 independent programmable interrupt generators for free-fall and motion detection",
+      " 6D/4D orientation detection",
+      " Embedded Temperature Sensor",
+      " Embedded FIFO",
+      " 1 million grams of high impact resistance"
+    ]
+  },
+  "SEN0289": {
+    "device": "SEN0289",
+    "Specification": {
+      "Here is the extracted SPECIFICATION section": "",
+      "Input Voltage (VCC)": "3.3V~5.0V",
+      "Switch Life Span": "Over 200,000 times",
+      "Interface": "Gravity 3P Digital",
+      "Dimension": "30.0mm*22.0mm"
+    },
+    "notes": [
+      "Specifications"
+    ]
+  },
+  "SEN0291": {
+    "device": "SEN0291",
+    "Specification": {
+      "Here is the SPECIFICATION section extracted from the IoT datasheet": "",
+      "* **Operating Voltage**": "3.0V to 5.5V",
+      "* **Current Measurement Range**": "±320mA (±2A with external amplifier)",
+      "* **Voltage Measurement Range**": "0V to 32V",
+      "* **Power Measurement Range**": "0W to 1.6kW",
+      "* **Resolution**": "",
+      "+ Current": "12 bits (4096 counts) or 16 bits (65536 counts) with external amplifier",
+      "+ Voltage": "12 bits (4096 counts)",
+      "+ Power": "12 bits (4096 counts)",
+      "* **Accuracy**": "±1% of full scale for current and voltage, ±2% of full scale for power",
+      "* **Operating Temperature**": "-40°C to 125°C",
+      "* **Storage Temperature**": "-65°C to 150°C",
+      "* **Dimensions**": "30mm x 15mm x 5mm (L x W x H)",
+      "* **Weight**": "10g",
+      "Note": "The above specifications are based on the TI INA219 datasheet and may not be applicable to all versions of the SEN0291 module."
+    },
+    "notes": [
+      "**SPECIFICATION**"
+    ]
+  },
+  "SEN0307": {
+    "device": "SEN0307",
+    "Specification": {
+      "Here is the extracted SPECIFICATION section": "",
+      "Power Supply": "3.3~5.5V DC",
+      "Operating Current": "20mA",
+      "Operating Temperature": "-10°C～＋70°C",
+      "Measurement Range": "2cm～500cm",
+      "Resolution": "1cm",
+      "Accuracy": "1%",
+      "Frequency": "30Hz Max",
+      "Dimension": "47mm × 22 mm/1.85× 0.87”"
+    },
+    "notes": []
+  }
+}
