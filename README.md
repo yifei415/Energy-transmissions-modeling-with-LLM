@@ -1,7 +1,29 @@
-projet_iot.py : this script extracts specifications from PDFs in the datasheet folder, saves them as specifications.json, and allows interactive energy and transmission model calculations using an LLM.
+# IoT Project - LLM Assisted
 
-pdf_to_json.py : this script batch-processes PDFs in the datasheet folder, extracts the "Specification" section from each using Ollama, and saves each device’s structured data as a JSON file in the json folder.
+This repository contains scripts to extract IoT device specifications from PDFs, process execution plans, and validate energy and transmission models using an LLM.
 
-llm_read_excution_plan.py : this script uses Ollama to parse an execution plan, extracting device IDs and their requested modules, and saves the structured result as plan_devices.json.
+## Scripts Overview
 
-llm_calculer_modele.py : This script loads device data from `plan_devices.json` and the corresponding datasheet JSON files, feeds them to Ollama to internally understand the devices, and then uses the LLM to validate the execution plan’s energy and transmission feasibility, outputting the results as JSON.
+### 1. `projet_iot.py`
+- Extracts specifications from PDFs in the `datasheet` folder.
+- Saves all specifications into `specifications.json`.
+- Provides an interactive interface for energy and transmission model calculations using an LLM.
+
+### 2. `pdf_to_json.py`
+- Batch-processes PDFs in the `datasheet` folder.
+- Extracts the "Specification" section from each PDF using Ollama.
+- Saves each device’s structured data as a separate JSON file in the `json` folder.
+
+### 3. `llm_read_execution_plan.py`
+- Parses an execution plan using Ollama.
+- Extracts device IDs and requested modules.
+- Saves the structured result as `plan_devices.json`.
+
+### 4. `llm_calculer_modele.py`
+- Loads device data from `plan_devices.json` and the corresponding datasheet JSON files.
+- Feeds the data to Ollama to “understand” the devices.
+- Validates the execution plan’s energy and transmission feasibility.
+- Outputs the validation results as JSON.
+
+## Folder Structure
+
