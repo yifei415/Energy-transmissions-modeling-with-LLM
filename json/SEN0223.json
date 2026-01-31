@@ -1,0 +1,26 @@
+{
+    "Specification": [
+        {
+            "Operating voltage:": "3.3 ~ 5V"
+        },
+        {
+            "Output type:": "digital signal"
+        },
+        {
+            "Interface mode:": "PH2.0-3P"
+        },
+        {
+            "Can identify the maximum resistance:": "10M"
+        },
+        {
+            "Board size:": "30 * 22mm"
+        },
+        {
+            "Alligator clip length:": "45cm"
+        },
+        {
+            "Weight:": "22g"
+        }
+    ],
+    "notes": []
+}

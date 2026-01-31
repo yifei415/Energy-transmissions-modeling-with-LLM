@@ -1,0 +1,23 @@
+{
+    "Specification": [
+        {
+            "Operating voltage:": "2.0 - 5.5V"
+        },
+        {
+            "Interface Type:": "Digital"
+        },
+        {
+            "Module size:": "40mm x 40mm/ 1.57 inches x 1.57 inches"
+        },
+        {
+            "Support Gravity interface": null
+        },
+        {
+            "Power rating (Speaker component):": "0.5W"
+        },
+        {
+            "Impedance (Speaker component):": "8 ohm"
+        }
+    ],
+    "notes": []
+}

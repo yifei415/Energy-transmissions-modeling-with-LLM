@@ -1,0 +1,7 @@
+{
+    "Specification": {
+        "Type": "Digital",
+        "LED light module pin definition": "(1) control terminal (2) power supply (3) ground"
+    },
+    "notes": []
+}

@@ -1,0 +1,32 @@
+{
+    "summary": {
+        "total_energy_mJ": 121.6,
+        "max_transmission_s": 0.04
+    },
+    "calculation_steps": [
+        {
+            "device_id": "DFR0022",
+            "module": "Camera",
+            "energy_mJ": 39.6,
+            "estimated_transmission_s": 0.04
+        },
+        {
+            "device_id": "DFR0028",
+            "module": "control",
+            "energy_mJ": 26.4,
+            "estimated_transmission_s": 0.04
+        },
+        {
+            "device_id": "SEN0223",
+            "module": "motion_detection",
+            "energy_mJ": 16.5,
+            "estimated_transmission_s": 0.04
+        },
+        {
+            "device_id": "SEN0307",
+            "module": "display_control",
+            "energy_mJ": 39.6,
+            "estimated_transmission_s": 0.04
+        }
+    ]
+}

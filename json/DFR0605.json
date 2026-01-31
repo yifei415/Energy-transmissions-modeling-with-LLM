@@ -1,0 +1,23 @@
+{
+    "Specification": [
+        {
+            "LED Type": "WS2812 RGB 5050 LED"
+        },
+        {
+            "Input Voltage": "3.3V~5.5V"
+        },
+        {
+            "Maximum Current": "48mA"
+        },
+        {
+            "Quiescent Current": "0.7mA"
+        },
+        {
+            "Interface": "Gravity 3P Digital"
+        },
+        {
+            "Dimension": "30.0mm*22.0mm / 1.18*0.87 in"
+        }
+    ],
+    "notes": []
+}

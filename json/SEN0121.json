@@ -1,0 +1,20 @@
+{
+    "Specification": [
+        {
+            "Power supply:": "3.3v or 5v"
+        },
+        {
+            "Output voltage signal:": "0~4.5v(@5v) or 0~3.0v(@3.3v)"
+        },
+        {
+            "Pin definition:": "Analog output(Blue wire), GND(Black wire), Power(Red wire)"
+        },
+        {
+            "Size:": "30x20x6mm"
+        }
+    ],
+    "notes": [
+        "Warning: The connector is not waterproof, please be careful not to put the connector directly in water.",
+        "Notice:The new version of analog sensor port pin mapping has been changed as the following two features."
+    ]
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "device_id": "DFR0022",
+        "modules": [
+            "Camera"
+        ],
+        "duration_ms": 1200,
+        "protocols": {
+            "Camera": "Wi-Fi"
+        }
+    },
+    {
+        "device_id": "DFR0028",
+        "modules": [
+            "control"
+        ],
+        "duration_ms": 800,
+        "protocols": {
+            "control": "Wi-Fi"
+        }
+    },
+    {
+        "device_id": "SEN0223",
+        "modules": [
+            "motion_detection"
+        ],
+        "duration_ms": 500,
+        "protocols": {
+            "motion_detection": "Wi-Fi"
+        }
+    },
+    {
+        "device_id": "SEN0307",
+        "modules": [
+            "display_control"
+        ],
+        "duration_ms": 600,
+        "protocols": {
+            "display_control": "Wi-Fi"
+        }
+    }
+]

@@ -1,0 +1,19 @@
+{
+    "Specification": {
+        "Operating Voltage": "3.3V ~ 5V",
+        "Operating Current": "2uA (low-power mode 50Hz ODR) / 11uA (normal mode 50Hz ODR)",
+        "Interface": "Gravity-I2C interface",
+        "Adjustable Sensitivity": "± 2g / ± 4g / ± 8g / ± 16g",
+        "Frequency": "1Hz ~ 5.3KHz",
+        "16-bit data output": "",
+        "2 independent programmable interrupt generators for free-fall and motion detection": "",
+        "6D/4D orientation detection": "",
+        "Embedded Temperature Sensor": "",
+        "Embedded FIFO": "",
+        "1 million grams of high impact resistance": "",
+        "Operating Temperature": "-40 Ԩ ~ +85 Ԩ",
+        "Module Size": "26.2 × 26.2 (mm) /1.03 x 1.03 (inches)",
+        "Weight": "12 g"
+    },
+    "notes": []
+}

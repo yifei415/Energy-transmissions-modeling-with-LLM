@@ -1,0 +1,10 @@
+{
+    "Specification": {
+        "Supply Voltage": "3.3V to 5V",
+        "Illumination range": "1 Lux to 6000 Lux",
+        "Responsive time": "15us",
+        "Interface": "Analog",
+        "Size": "22x30mm(0.87\"x1.18\")"
+    },
+    "notes": []
+}

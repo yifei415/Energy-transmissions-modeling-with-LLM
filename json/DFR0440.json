@@ -1,0 +1,8 @@
+{
+    "Specification": {
+        "Operating Voltage": "5v",
+        "Control mode": "High-Low level/PWM signal",
+        "Dimension": "30 x 22 mm/ 1.18 * 0.78 inches"
+    },
+    "notes": []
+}

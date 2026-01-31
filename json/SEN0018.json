@@ -1,0 +1,15 @@
+{
+    "Specification": {
+        "Type": "Digital",
+        "Supply Voltage": "3～5V",
+        "Current": "50μA",
+        "Working temperature": "0Ԩ～＋70Ԩ",
+        "Output level(HIGH)": "4V",
+        "Output level(LOW)": "0.4V",
+        "Detect angle": "110 Degree",
+        "Detect distance": "7 meters",
+        "Size": "28mm×36mm",
+        "Weight": "25g"
+    },
+    "notes": []
+}

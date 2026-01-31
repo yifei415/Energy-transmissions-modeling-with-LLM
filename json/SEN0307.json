@@ -1,0 +1,13 @@
+{
+    "Specification": {
+        "Power Supply": "3.3~5.5V DC",
+        "Operating Current": "20mA",
+        "Operating Temperature": "-10°C～＋70°C",
+        "Measurement Range": "2cm～500cm",
+        "Resolution": "1cm",
+        "Accuracy": "1%",
+        "Frequency": "30Hz Max",
+        "Dimension": "47mm × 22 mm/1.85× 0.87”"
+    },
+    "notes": []
+}
